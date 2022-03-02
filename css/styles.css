@@ -11691,9 +11691,9 @@ p {
   position: relative;
 }
 footer {
-  height: 50px;
-  background: #131313;
-  color: white;
+  height: 160px;
+  background: #63472c;
+  color: #d7b97a;
 }
 .gold {
   text-decoration: none;
